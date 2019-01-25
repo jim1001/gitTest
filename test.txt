@@ -1,4 +1,4 @@
 gitTestLocn1
 gitTestLocn2
 gitTestingBranch change
-
+line added from Locn1
